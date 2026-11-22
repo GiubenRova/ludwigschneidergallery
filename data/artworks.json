@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "draft-01",
+    "artist": "alberto-juan-pellito",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-02",
+    "artist": "arnauld-dubois",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-03",
+    "artist": "faust-rocher",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-04",
+    "artist": "giovanni-digressi",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-05",
+    "artist": "gunther-schafer",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-06",
+    "artist": "jens-peeters",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  },
+  {
+    "id": "draft-07",
+    "artist": "roger-sallow",
+    "title": "",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "",
+    "images": []
+  }
+]
