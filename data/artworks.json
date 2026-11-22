@@ -1,79 +1,102 @@
 [
   {
-    "id": "draft-01",
-    "artist": "alberto-juan-pellito",
-    "title": "",
-    "year": "",
-    "medium": "",
-    "dimensions": "",
-    "description": "",
-    "thumbnail": "",
-    "images": []
-  },
-  {
-    "id": "draft-02",
-    "artist": "arnauld-dubois",
-    "title": "",
-    "year": "",
-    "medium": "",
-    "dimensions": "",
-    "description": "",
-    "thumbnail": "",
-    "images": []
-  },
-  {
-    "id": "draft-03",
-    "artist": "faust-rocher",
-    "title": "",
-    "year": "",
-    "medium": "",
-    "dimensions": "",
-    "description": "",
-    "thumbnail": "",
-    "images": []
-  },
-  {
-    "id": "draft-04",
+    "id": "digressi-1",
     "artist": "giovanni-digressi",
-    "title": "",
+    "title": "Lampada Inutile (Useless Lamp)",
     "year": "",
     "medium": "",
     "dimensions": "",
     "description": "",
-    "thumbnail": "",
-    "images": []
+    "thumbnail": "/images/artworks/digressi-1.png",
+    "images": "/images/artworks/digressi-1.png"
   },
   {
-    "id": "draft-05",
-    "artist": "gunther-schafer",
-    "title": "",
+    "id": "dubois-1",
+    "artist": "arnauld-dubois",
+    "title": "Ma Mere (My Mother)",
     "year": "",
     "medium": "",
     "dimensions": "",
     "description": "",
-    "thumbnail": "",
-    "images": []
+    "thumbnail": "/images/artworks/dubois-1.png",
+    "images": "/images/artworks/dubois-1.png"
   },
   {
-    "id": "draft-06",
+    "id": "mitsuo-1",
+    "artist": "nakao-mitsuo",
+    "title": "Broken Night",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/images/artworks/mitsuo-1.png",
+    "images": "/images/artworks/mitsuo-1.png"
+  },
+  {
+    "id": "nickels-1",
+    "artist": "john-nickels",
+    "title": "Tumbling Down",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/images/artworks/nickels-1.png",
+    "images": "/images/artworks/nickels-1.png"
+  },
+  {
+    "id": "peeters-1",
     "artist": "jens-peeters",
-    "title": "",
+    "title": "Untitled (Young Woman)",
     "year": "",
     "medium": "",
     "dimensions": "",
     "description": "",
-    "thumbnail": "",
-    "images": []
+    "thumbnail": "/images/artworks/peeters-1.png",
+    "images": "/images/artworks/peeters-1.png"
   },
   {
-    "id": "draft-07",
-    "artist": "roger-sallow",
-    "title": "",
+    "id": "pellito-1",
+    "artist": "alberto-juan-pellito",
+    "title": "Retrato de Jordi Gavarra",
     "year": "",
     "medium": "",
     "dimensions": "",
     "description": "",
-    "thumbnail": "",
-    "images": []
+    "thumbnail": "/images/artworks/pellito-1.png",
+    "images": "/images/artworks/pellito-1.png"
+  },
+  {
+    "id": "rocher-1",
+    "artist": "faust-rocher",
+    "title": "Epitome de la Nuisance",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/images/artworks/rocher-1.png",
+    "images": "/images/artworks/rocher-1.png"
+  },
+  {
+    "id": "rocher-2",
+    "artist": "faust-rocher",
+    "title": "Guillotine",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/images/artworks/rocher-2.png",
+    "images": "/images/artworks/rocher-2.png"
+  },
+  {
+    "id": "schafer-1",
+    "artist": "gunther-schafer",
+    "title": "The Smug",
+    "year": "",
+    "medium": "",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/images/artworks/schafer-1.png",
+    "images": "/images/artworks/schafer-1.png"
   }
+
 ]
