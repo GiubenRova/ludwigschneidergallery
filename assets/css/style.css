@@ -253,11 +253,17 @@ p {
 }
 
 .profile-top {
-  display:grid;
-  grid-template-columns:1fr .85fr;
-  gap:9%;
-  padding:66px 0 90px;
-  border-bottom:1px solid var(--line)
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.85fr);
+  gap: 9%;
+  align-items: start;
+  height: auto;
+  padding: 66px 0 90px;
+  border-bottom: 1px solid var(--line);
+}
+
+.profile-top > div:first-child {
+  min-width: 0;
 }
 
 .profile-top h1 {
@@ -271,9 +277,12 @@ p {
 }
 
 .bio {
-  max-width:620px;
-  white-space:pre-line;
-  line-height:2
+  max-width: 620px;
+  white-space: pre-line;
+  line-height: 2;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 .bio:not(:empty) {
