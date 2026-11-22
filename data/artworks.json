@@ -24,7 +24,11 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/dubois-1.png",
-    "images": ["/assets/images/artworks/dubois-1.png"]
+    "images": [
+      "/assets/images/artworks/dubois-1.png",
+      "/assets/images/artworks/dubois-1d1.png",
+      "/assets/images/artworks/dubois-1d2.png"
+    ]
   },
   {
     "id": "mitsuo-1",
@@ -35,7 +39,10 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/mitsuo-1.png",
-    "images": ["/assets/images/artworks/mitsuo-1.png"]
+    "images": [
+      "/assets/images/artworks/mitsuo-1.png",
+      "/assets/images/artworks/mitsuo-1d1.png"
+    ]
   },
   {
     "id": "nickels-1",
@@ -46,7 +53,11 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/nickels-1.png",
-    "images": ["/assets/images/artworks/nickels-1.png"]
+    "images": [
+      "/assets/images/artworks/nickels-1.png",
+      "/assets/images/artworks/nickels-1d1.png",
+      "/assets/images/artworks/nickels-1d2.png"
+    ]
   },
   {
     "id": "peeters-1",
@@ -57,7 +68,12 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/peeters-1.png",
-    "images": ["/assets/images/artworks/peeters-1.png"]
+    "images": [
+      "/assets/images/artworks/peeters-1.png",
+      "/assets/images/artworks/peeters-1d1.png",
+      "/assets/images/artworks/peeters-1d2.png",
+      "/assets/images/artworks/peeters-1d3.png"
+    ]
   },
   {
     "id": "pellito-1",
@@ -68,7 +84,12 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/pellito-1.png",
-    "images": ["/assets/images/artworks/pellito-1.png"]
+    "images": [
+      "/assets/images/artworks/pellito-1.png",
+      "/assets/images/artworks/pellito-1d1.png",
+      "/assets/images/artworks/pellito-1d2.png",
+      "/assets/images/artworks/pellito-1d3.png"
+    ]
   },
   {
     "id": "rocher-1",
@@ -79,7 +100,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/rocher-1.png",
-    "images": ["/assets/images/artworks/rocher-1.png"]
+    "images": [
+      "/assets/images/artworks/rocher-1.png"
+    ]
   },
   {
     "id": "rocher-2",
@@ -90,7 +113,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/rocher-2.png",
-    "images": ["/assets/images/artworks/rocher-2.png"]
+    "images": [
+      "/assets/images/artworks/rocher-2.png"
+    ]
   },
   {
     "id": "schafer-1",
@@ -101,7 +126,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/schafer-1.png",
-    "images": ["/assets/images/artworks/schafer-1.png"]
+    "images": [
+      "/assets/images/artworks/schafer-1.png"
+    ]
   },
   {
     "id": "sallow-1",
@@ -112,7 +139,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-1.png",
-    "images": ["/assets/images/artworks/sallow-1.png"]
+    "images": [
+      "/assets/images/artworks/sallow-1.png"
+    ]
   },
   {
     "id": "sallow-2",
@@ -123,7 +152,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-2.png",
-    "images": ["/assets/images/artworks/sallow-2.png"]
+    "images": [
+      "/assets/images/artworks/sallow-2.png"
+    ]
   },
   {
     "id": "sallow-3",
@@ -134,7 +165,9 @@
     "dimensions": "",
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-3.png",
-    "images": ["/assets/images/artworks/sallow-3.png"]
+    "images": [
+      "/assets/images/artworks/sallow-3.png"
+    ]
   }
 
 ]
