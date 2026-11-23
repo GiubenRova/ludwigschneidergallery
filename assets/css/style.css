@@ -205,6 +205,13 @@ p {
   min-height:clamp(320px,48vw,630px)
 }
 
+.featured-placeholder img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 .grid {
   display:grid;
   grid-template-columns:repeat(3,minmax(0,1fr));
