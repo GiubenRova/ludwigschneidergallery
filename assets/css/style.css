@@ -294,17 +294,6 @@ p {
   border-bottom:1px solid var(--line)
 }
 
-.about-grid {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:10%;
-  align-items:start
-}
-
-.about-portrait {
-  min-height:420px
-}
-
 .site-footer {
   border-top:1px solid var(--line);
   padding:30px 0 60px
@@ -533,7 +522,7 @@ p {
 }
 
 @media(max-width:850px) {
-  .dialog-body,.profile-top,.about-grid {
+  .dialog-body,.profile-top {
     grid-template-columns:1fr
   }
 
@@ -627,6 +616,25 @@ p {
 
 }
 
+/* About page — centred section images and headings */
+.about-section-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.about-image {
+  width: min(360px, 100%);
+  aspect-ratio: 3 / 4;
+  margin: 30px 0;
+}
+
+.about-section-heading h2 {
+  margin: 0 0 12px;
+}
+
 #ludwig-schneider {
   padding: 90px 0;
 }
@@ -662,10 +670,6 @@ p {
 .about-biography {
   max-width: 760px;
   margin: 0 auto;
-}
-
-.about-biography h2 {
-  margin-bottom: 45px;
 }
 
 .about-biography p {
@@ -712,13 +716,19 @@ p {
     font-size: 30px;
   }
 
-  .about-biography h2 {
-    margin-bottom: 28px;
-  }
-
   .about-biography p {
     font-size: 14px;
     line-height: 1.9;
     text-align: left;
+  }
+}
+
+@media (max-width: 550px) {
+  .about-section-heading {
+    margin-bottom: 40px;
+  }
+
+  .about-image {
+    width: min(280px, 100%);
   }
 }
