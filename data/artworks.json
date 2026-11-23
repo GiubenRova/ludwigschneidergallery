@@ -12,7 +12,8 @@
       "/assets/images/artworks/digressi-1.png",
       "/assets/images/artworks/digressi-1d1.png",
       "/assets/images/artworks/digressi-1d2.png",
-      "/assets/images/artworks/digressi-1d3.png"
+      "/assets/images/artworks/digressi-1d3.png",
+      "/assets/images/artworks/digressi-1p.png"
     ]
   },
   {
@@ -27,7 +28,8 @@
     "images": [
       "/assets/images/artworks/dubois-1.png",
       "/assets/images/artworks/dubois-1d1.png",
-      "/assets/images/artworks/dubois-1d2.png"
+      "/assets/images/artworks/dubois-1d2.png",
+      "/assets/images/artworks/dubois-1p.jpeg"
     ]
   },
   {
@@ -41,7 +43,8 @@
     "thumbnail": "/assets/images/artworks/mitsuo-1f.png",
     "images": [
       "/assets/images/artworks/mitsuo-1.png",
-      "/assets/images/artworks/mitsuo-1d1.png"
+      "/assets/images/artworks/mitsuo-1d1.png",
+      "/assets/images/artworks/mitsuo-1p.jpg"
     ]
   },
   {
@@ -56,7 +59,8 @@
     "images": [
       "/assets/images/artworks/nickels-1.png",
       "/assets/images/artworks/nickels-1d1.png",
-      "/assets/images/artworks/nickels-1d2.png"
+      "/assets/images/artworks/nickels-1d2.png",
+      "/assets/images/artworks/nickels-1p.jpg"
     ]
   },
   {
@@ -72,7 +76,8 @@
       "/assets/images/artworks/peeters-1.png",
       "/assets/images/artworks/peeters-1d1.png",
       "/assets/images/artworks/peeters-1d2.png",
-      "/assets/images/artworks/peeters-1d3.png"
+      "/assets/images/artworks/peeters-1d3.png",
+      "/assets/images/artworks/peeters-1p.png"
     ]
   },
   {
@@ -88,7 +93,8 @@
       "/assets/images/artworks/pellito-1.png",
       "/assets/images/artworks/pellito-1d1.png",
       "/assets/images/artworks/pellito-1d2.png",
-      "/assets/images/artworks/pellito-1d3.png"
+      "/assets/images/artworks/pellito-1d3.png",
+      "/assets/images/artworks/pellito-1p.png"
     ]
   },
   {
@@ -101,7 +107,11 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/rocher-1f.png",
     "images": [
-      "/assets/images/artworks/rocher-1.png"
+      "/assets/images/artworks/rocher-1.png",
+      "/assets/images/artworks/rocher-1d1.png",
+      "/assets/images/artworks/rocher-1d2.png",
+      "/assets/images/artworks/rocher-1d3.png",
+      "/assets/images/artworks/rocher-1p.png"
     ]
   },
   {
@@ -114,7 +124,10 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/rocher-2f.png",
     "images": [
-      "/assets/images/artworks/rocher-2.png"
+      "/assets/images/artworks/rocher-2.png",
+      "/assets/images/artworks/rocher-2d1.png",
+      "/assets/images/artworks/rocher-2d2.png",
+      "/assets/images/artworks/rocher-2p.jpg"
     ]
   },
 
@@ -128,7 +141,9 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-1f.png",
     "images": [
-      "/assets/images/artworks/sallow-1.png"
+      "/assets/images/artworks/sallow-1.png",
+      "/assets/images/artworks/sallow-1d1.png",
+      "/assets/images/artworks/sallow-1d2.png"
     ]
   },
   {
@@ -141,7 +156,9 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-2f.png",
     "images": [
-      "/assets/images/artworks/sallow-2.png"
+      "/assets/images/artworks/sallow-2.png",
+      "/assets/images/artworks/sallow-2d1.png",
+      "/assets/images/artworks/sallow-2d2.png"
     ]
   },
   {
@@ -154,7 +171,9 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/sallow-3f.png",
     "images": [
-      "/assets/images/artworks/sallow-3.png"
+      "/assets/images/artworks/sallow-3.png",
+      "/assets/images/artworks/sallow-3d1.png",
+      "/assets/images/artworks/sallow-3d2.png"
     ]
   },
   {
@@ -167,7 +186,10 @@
     "description": "",
     "thumbnail": "/assets/images/artworks/schafer-1f.png",
     "images": [
-      "/assets/images/artworks/schafer-1.png"
+      "/assets/images/artworks/schafer-1.png",
+      "/assets/images/artworks/schafer-1d1.png",
+      "/assets/images/artworks/schafer-1d2.png",
+      "/assets/images/artworks/schafer-1p.png"
     ]
   }
 
