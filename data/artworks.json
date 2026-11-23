@@ -3,7 +3,7 @@
     "id": "digressi-1",
     "artist": "giovanni-digressi",
     "title": "Lampada Inutile (Useless Lamp)",
-    "year": "",
+    "year": "1910",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "",
@@ -19,7 +19,7 @@
     "id": "dubois-1",
     "artist": "arnauld-dubois",
     "title": "Ma Mére (My Mother)",
-    "year": "",
+    "year": "1971",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "",
@@ -34,7 +34,7 @@
     "id": "mitsuo-1",
     "artist": "nakao-mitsuo",
     "title": "Broken Night",
-    "year": "",
+    "year": "1999",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "In 1923, Giovanni completed his most famous work, a painting entitled \"Lampada inutile\" or \"Useless lampshade\". The painting depicted a lampshade that was turned off. The lampshade appeared to be illuminated, but it was unclear where the light was coming from.\n\nWhen asked about the meaning behind the painting, Giovanni explained that he felt like the lampshade, useless and without purpose. He felt as though he had been switched off, and someone else was illuminating the world around him. His depression had taken hold, and he was struggling to find his place in the world.\n\nDespite the bleakness of the painting, \"Lampada inutile\" became an instant sensation. It was exhibited in galleries across Europe and received critical acclaim. Giovanni's work had struck a chord with the public, who saw in his paintings a reflection of their own struggles and pain.",
@@ -48,7 +48,7 @@
     "id": "nickels-1",
     "artist": "john-nickels",
     "title": "Tumbling Down",
-    "year": "",
+    "year": "1971",
     "medium": "Pastels on Paper",
     "dimensions": "",
     "description": "",
@@ -63,7 +63,7 @@
     "id": "peeters-1",
     "artist": "jens-peeters",
     "title": "Untitled (Young Woman)",
-    "year": "",
+    "year": "1968",
     "medium": "Gouache on Paper",
     "dimensions": "",
     "description": "",
@@ -79,7 +79,7 @@
     "id": "pellito-1",
     "artist": "alberto-juan-pellito",
     "title": "Retrato de Jordi Gavarra",
-    "year": "",
+    "year": "1925",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "",
@@ -95,7 +95,7 @@
     "id": "rocher-1",
     "artist": "faust-rocher",
     "title": "L'Épitome de la Nuisance",
-    "year": "",
+    "year": "1948",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "",
@@ -108,7 +108,7 @@
     "id": "rocher-2",
     "artist": "faust-rocher",
     "title": "Guillotine",
-    "year": "",
+    "year": "1949",
     "medium": "Oil on Canvas",
     "dimensions": "",
     "description": "",
@@ -117,19 +117,7 @@
       "/assets/images/artworks/rocher-2.png"
     ]
   },
-  {
-    "id": "schafer-1",
-    "artist": "gunther-schafer",
-    "title": "The Smug",
-    "year": "",
-    "medium": "Oil on Canvas",
-    "dimensions": "",
-    "description": "",
-    "thumbnail": "/assets/images/artworks/schafer-1f.png",
-    "images": [
-      "/assets/images/artworks/schafer-1.png"
-    ]
-  },
+
   {
     "id": "sallow-1",
     "artist": "roger-sallow",
@@ -167,6 +155,19 @@
     "thumbnail": "/assets/images/artworks/sallow-3f.png",
     "images": [
       "/assets/images/artworks/sallow-3.png"
+    ]
+  },
+  {
+    "id": "schafer-1",
+    "artist": "gunther-schafer",
+    "title": "The Smug",
+    "year": "1951",
+    "medium": "Oil on Canvas",
+    "dimensions": "",
+    "description": "",
+    "thumbnail": "/assets/images/artworks/schafer-1f.png",
+    "images": [
+      "/assets/images/artworks/schafer-1.png"
     ]
   }
 
