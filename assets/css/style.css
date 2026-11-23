@@ -626,3 +626,99 @@ p {
   }
 
 }
+
+#ludwig-schneider {
+  padding: 90px 0;
+}
+
+.about-introduction {
+  max-width: 900px;
+  margin: 0 auto 85px;
+  text-align: center;
+}
+
+.about-introduction blockquote {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.about-introduction blockquote p {
+  max-width: none;
+  margin: 0 0 30px;
+
+  font-family: var(--serif);
+  font-size: clamp(30px, 4vw, 52px);
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+.about-introduction .eyebrow {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.about-biography {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.about-biography h2 {
+  margin-bottom: 45px;
+}
+
+.about-biography p {
+  max-width: none;
+  margin: 0 0 26px;
+
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 2;
+
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+.about-biography p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 850px) {
+  #ludwig-schneider {
+    padding: 65px 0;
+  }
+
+  .about-introduction {
+    margin-bottom: 60px;
+  }
+
+  .about-biography {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 550px) {
+  #ludwig-schneider {
+    padding: 45px 0;
+  }
+
+  .about-introduction {
+    margin-bottom: 45px;
+  }
+
+  .about-introduction blockquote p {
+    font-size: 30px;
+  }
+
+  .about-biography h2 {
+    margin-bottom: 28px;
+  }
+
+  .about-biography p {
+    font-size: 14px;
+    line-height: 1.9;
+    text-align: left;
+  }
+}
